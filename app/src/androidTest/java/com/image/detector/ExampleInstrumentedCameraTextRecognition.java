@@ -22,6 +22,6 @@ public class ExampleInstrumentedCameraTextRecognition {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.showmewhat", appContext.getPackageName());
+        assertEquals("com.image.detector", appContext.getPackageName());
     }
 }

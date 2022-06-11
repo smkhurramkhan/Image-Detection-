@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ml-image-detection-main/app/src/main/res/drawable/ic_photo.xml" value="0.165" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/ml-image-detection-main/app/src/main/res/drawable/onboarding_button.xml" value="0.165" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ml-image-detection-main/app/src/main/res/drawable/round_view.xml" value="0.165" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ml-image-detection-main/app/src/main/res/layout/activity_convert_choise_image.xml" value="0.24615384615384617" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/ml-image-detection-main/app/src/main/res/layout/activity_home.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ml-image-detection-main/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
